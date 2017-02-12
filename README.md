@@ -33,7 +33,7 @@ shiny::runGitHub("abhishekms1047/Talk-to-R-Shiny")
 
 After the application start 
 
-Voice commands can be issued:
+#Voice commands can be issued:
 
 
 
