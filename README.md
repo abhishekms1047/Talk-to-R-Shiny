@@ -16,6 +16,7 @@ devtools::install_github("cran/plotly")
 devtools::install_github("cran/RColorBrewer")
 devtools::install_github("hadley/scales")
 devtools::install_github("cran/lattice")
+devtools::install_github("krlmlr/bindr")
 
 library(RColorBrewer)
 library(scales)
@@ -24,10 +25,16 @@ library(dplyr)
 library (plotly)
 library(leaflet)
 library(Shiny)
+library(bindr)
 
 shiny::runGitHub("abhishekms1047/Talk-to-R-Shiny")
 
 ```
+
+
+
+
+
 
 Data compiled for Coming Apart: The State of White America, 1960–2010 by Charles Murray (Crown Forum, 2012). 
 This app was inspired by the Washington Post's interactive feature Washington: _[Washington: A world apart](http://www.washingtonpost.com/sf/local/2013/11/09/washington-a-world-apart/)_.
