@@ -2,7 +2,7 @@
 
 Talk to R is a Voice Enabled Web App built on R for analysing data using maps
 
-See a version of it live at https://abhiplot.shinyapps.io/talk_to_r_shiny/
+The Web App is hosted live at https://abhiplot.shinyapps.io/talk_to_r_shiny/
 
 You can run this App in R Studio:
 
