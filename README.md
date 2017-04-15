@@ -88,13 +88,13 @@ Size by income/population/education
     Size by population
 ```    
 
-Graph income/population/education by income/population/education
+Analyze income/population/education by income/population/education
 
    
 ```Example:
-    Graph income by population
+    Analyze income by population
 
-    Graph education by income 
+    Analyze education by income 
 ```
 
 
